@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+
+.small-img {
+    width: auto;
+    max-height: 165px;
+}
